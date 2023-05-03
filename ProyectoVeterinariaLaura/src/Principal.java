@@ -5,6 +5,9 @@ public class Principal {
 		// TODO Auto-generated method stub
 
 		//Esta es la clase principal de mi proyecto de veterinaria
+		
+		//para la asignatura de tic II
+		
 	}
 
 }
