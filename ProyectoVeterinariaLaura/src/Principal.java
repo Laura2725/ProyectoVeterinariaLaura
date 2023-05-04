@@ -8,6 +8,8 @@ public class Principal {
 		
 		//para la asignatura de tic II
 		
+		//Aquí se incluye el funcionamiento
+		
 	}
 
 }
